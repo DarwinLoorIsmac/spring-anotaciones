@@ -51,7 +51,7 @@ public class Principal {
 		
 		producto.setIdProducto(1);
 		producto.setNombre("Uvas");
-		producto.setDescripcion("Caja de uvas");
+		producto.setDescripcion("Caja de uva");
 		producto.setPrecio(6.99);
 		producto.setStock(100);
 		
